@@ -5,7 +5,7 @@ const callback = function(mutationsList, observer) {
 };
 
 function run() {
-  var elements = document.getElementsByTagName('a');
+  var elements = document.querySelectorAll('a,button');
 
   for (var i = 0; i < elements.length; i++) {
     var element = elements[i];
