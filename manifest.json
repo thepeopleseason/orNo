@@ -1,0 +1,19 @@
+{
+  "name": "orNo",
+  "version": "0.1.0",
+  "description": "Eliminate 'or YES' from betterworks",
+  "manifest_version": 3,
+  "author": "James Hsiao",
+
+  "content_scripts": [
+    {
+      "js": [
+        "content-script.js"
+      ],
+      "run_at": "document_end",
+      "matches": [
+        "https://app.betterworks.com/*"
+      ]
+    }
+  ]
+}
