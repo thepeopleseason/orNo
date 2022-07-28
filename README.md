@@ -4,7 +4,7 @@ Chrome extension to remove 'Or YES' from betterworks
 
 ## Installation instructions
 
-1. Clone this repo to a local directory.
+1. Clone this repo/download the files to a local directory.
 2. Go to chrome://extensions in your browser.
 3. Enable developer mode.
 4. Click on "Load unpacked"
