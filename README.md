@@ -14,8 +14,8 @@ Chrome extension to remove 'Or YES' from betterworks
 ## Notes
 
 Because betterworks loads things in API calls, this basically runs
-everytime the page changes. Really inefficient; It's a little
-childish and stupid, but then, so is high school.
-
-I'm not a FE developer (I'm a manager, really), and I just wanted
-something to get rid of that ridiculous phrasing.
+everytime the page changes. This might be really inefficient. Who
+knows? Examining another extension that does the same sort of thing
+does the same, so what do I know? I'm not a FE developer (I'm a
+manager, really), and I just wanted something to get rid of that
+ridiculous phrasing.
